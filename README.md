@@ -1,2 +1,3 @@
 # AJPS-Mart
 It is a grocery ordering website, in which user can create account for him/her, order the grocery products, orders can be traced easily, and various others stuffs can be done by users. The technology used for frontend are Html, CSS, JavaScript, and for backend Python and Django. To store all the data of website MySQL is used. 
+The deployment option is not displaying the actual home page of application , it is beacuse of the name of my home page file is not meeting the requirement of the guthub pages. So you have to directly download the code and run on your system to view the application.
